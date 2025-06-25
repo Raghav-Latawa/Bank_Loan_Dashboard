@@ -84,3 +84,25 @@ Month-over-Month Growth: Understand lending performance over time
 
 Loan Product Benchmarking: Use grade/sub-grade views to evaluate performance tiers
 
+## 📸 Dashboard Screenshots
+
+### 🔹 Summary View
+![Summary View](https://raw.githubusercontent.com/Raghav-Latawa/Bank_Loan_Dashboard/main/Summary.png)
+
+### 🔹 Overview View
+![Overview View](https://raw.githubusercontent.com/Raghav-Latawa/Bank_Loan_Dashboard/main/Overview.png)
+
+### 🔹 Details View
+![Details View](https://raw.githubusercontent.com/Raghav-Latawa/Bank_Loan_Dashboard/main/Details.png)
+
+
+
+
+
+
+👤 Created By
+Raghav Latawa
+Power BI Developer | Healthcare Data Enthusiast
+📅 June 2025
+
+
