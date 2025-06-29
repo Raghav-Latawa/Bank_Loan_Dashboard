@@ -44,7 +44,7 @@ Break down performance by geography, purpose, and borrower profile
 
 Benchmark monthly efficiency and track loan product performance
 
-• Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 ### Summary View
 
 KPI Tiles: Total Applications, Funded, Received, Avg. Interest Rate, Avg. DTI
